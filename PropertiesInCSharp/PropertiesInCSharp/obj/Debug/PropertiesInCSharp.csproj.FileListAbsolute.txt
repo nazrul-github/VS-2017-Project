@@ -1,0 +1,6 @@
+H:\VS 2017 Project\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe.config
+H:\VS 2017 Project\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe
+H:\VS 2017 Project\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.pdb
+H:\VS 2017 Project\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.exe
+H:\VS 2017 Project\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.pdb

@@ -1,0 +1,10 @@
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csprojAssemblyReference.cache
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.Form1.resources
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.Properties.Resources.resources
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.GenerateResource.cache
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+H:\VS 2017 Project\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb

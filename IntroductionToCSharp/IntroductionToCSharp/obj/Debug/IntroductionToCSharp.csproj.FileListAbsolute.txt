@@ -1,0 +1,7 @@
+H:\VS 2017 Project\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe.config
+H:\VS 2017 Project\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.exe
+H:\VS 2017 Project\IntroductionToCSharp\IntroductionToCSharp\bin\Debug\IntroductionToCSharp.pdb
+H:\VS 2017 Project\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.exe
+H:\VS 2017 Project\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.pdb
+H:\VS 2017 Project\IntroductionToCSharp\IntroductionToCSharp\obj\Debug\IntroductionToCSharp.csprojAssemblyReference.cache

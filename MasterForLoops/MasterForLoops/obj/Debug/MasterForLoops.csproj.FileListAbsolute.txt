@@ -1,0 +1,10 @@
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\bin\Debug\MasterForLoops.exe.config
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\bin\Debug\MasterForLoops.exe
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\bin\Debug\MasterForLoops.pdb
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\obj\Debug\MasterForLoops.csprojAssemblyReference.cache
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\obj\Debug\MasterForLoops.Form1.resources
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\obj\Debug\MasterForLoops.Properties.Resources.resources
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\obj\Debug\MasterForLoops.csproj.GenerateResource.cache
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\obj\Debug\MasterForLoops.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\obj\Debug\MasterForLoops.exe
+H:\VS 2017 Project\MasterForLoops\MasterForLoops\obj\Debug\MasterForLoops.pdb

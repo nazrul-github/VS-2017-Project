@@ -1,0 +1,10 @@
+H:\VS 2017 Project\BoxerApp\BoxerApp\bin\Debug\BoxerApp.exe.config
+H:\VS 2017 Project\BoxerApp\BoxerApp\bin\Debug\BoxerApp.exe
+H:\VS 2017 Project\BoxerApp\BoxerApp\bin\Debug\BoxerApp.pdb
+H:\VS 2017 Project\BoxerApp\BoxerApp\obj\Debug\BoxerApp.csprojAssemblyReference.cache
+H:\VS 2017 Project\BoxerApp\BoxerApp\obj\Debug\BoxerApp.Form1.resources
+H:\VS 2017 Project\BoxerApp\BoxerApp\obj\Debug\BoxerApp.Properties.Resources.resources
+H:\VS 2017 Project\BoxerApp\BoxerApp\obj\Debug\BoxerApp.csproj.GenerateResource.cache
+H:\VS 2017 Project\BoxerApp\BoxerApp\obj\Debug\BoxerApp.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\BoxerApp\BoxerApp\obj\Debug\BoxerApp.exe
+H:\VS 2017 Project\BoxerApp\BoxerApp\obj\Debug\BoxerApp.pdb

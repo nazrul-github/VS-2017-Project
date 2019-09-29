@@ -1,0 +1,10 @@
+H:\VS 2017 Project\App2\App2\bin\Debug\App2.exe.config
+H:\VS 2017 Project\App2\App2\bin\Debug\App2.exe
+H:\VS 2017 Project\App2\App2\bin\Debug\App2.pdb
+H:\VS 2017 Project\App2\App2\obj\Debug\App2.csprojAssemblyReference.cache
+H:\VS 2017 Project\App2\App2\obj\Debug\App2.Form1.resources
+H:\VS 2017 Project\App2\App2\obj\Debug\App2.Properties.Resources.resources
+H:\VS 2017 Project\App2\App2\obj\Debug\App2.csproj.GenerateResource.cache
+H:\VS 2017 Project\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\App2\App2\obj\Debug\App2.exe
+H:\VS 2017 Project\App2\App2\obj\Debug\App2.pdb

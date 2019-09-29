@@ -1,0 +1,7 @@
+H:\VS 2017 Project\PrintingValues\PrintingValues\bin\Debug\PrintingValues.exe.config
+H:\VS 2017 Project\PrintingValues\PrintingValues\bin\Debug\PrintingValues.exe
+H:\VS 2017 Project\PrintingValues\PrintingValues\bin\Debug\PrintingValues.pdb
+H:\VS 2017 Project\PrintingValues\PrintingValues\obj\Debug\PrintingValues.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\PrintingValues\PrintingValues\obj\Debug\PrintingValues.exe
+H:\VS 2017 Project\PrintingValues\PrintingValues\obj\Debug\PrintingValues.pdb
+H:\VS 2017 Project\PrintingValues\PrintingValues\obj\Debug\PrintingValues.csprojAssemblyReference.cache

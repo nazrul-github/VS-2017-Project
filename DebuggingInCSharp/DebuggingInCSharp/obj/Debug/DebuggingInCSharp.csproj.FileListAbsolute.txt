@@ -1,0 +1,6 @@
+H:\VS 2017 Project\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.exe.config
+H:\VS 2017 Project\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.exe
+H:\VS 2017 Project\DebuggingInCSharp\DebuggingInCSharp\bin\Debug\DebuggingInCSharp.pdb
+H:\VS 2017 Project\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.exe
+H:\VS 2017 Project\DebuggingInCSharp\DebuggingInCSharp\obj\Debug\DebuggingInCSharp.pdb

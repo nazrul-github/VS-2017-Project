@@ -1,0 +1,10 @@
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\bin\Debug\SwitchStringValues.exe.config
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\bin\Debug\SwitchStringValues.exe
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\bin\Debug\SwitchStringValues.pdb
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\obj\Debug\SwitchStringValues.csprojAssemblyReference.cache
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\obj\Debug\SwitchStringValues.Form1.resources
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\obj\Debug\SwitchStringValues.Properties.Resources.resources
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\obj\Debug\SwitchStringValues.csproj.GenerateResource.cache
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\obj\Debug\SwitchStringValues.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\obj\Debug\SwitchStringValues.exe
+H:\VS 2017 Project\SwitchStringValues\SwitchStringValues\obj\Debug\SwitchStringValues.pdb

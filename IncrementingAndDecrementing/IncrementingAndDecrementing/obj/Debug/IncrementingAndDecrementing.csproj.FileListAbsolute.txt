@@ -1,0 +1,6 @@
+H:\VS 2017 Project\IncrementingAndDecrementing\IncrementingAndDecrementing\bin\Debug\IncrementingAndDecrementing.exe.config
+H:\VS 2017 Project\IncrementingAndDecrementing\IncrementingAndDecrementing\bin\Debug\IncrementingAndDecrementing.exe
+H:\VS 2017 Project\IncrementingAndDecrementing\IncrementingAndDecrementing\bin\Debug\IncrementingAndDecrementing.pdb
+H:\VS 2017 Project\IncrementingAndDecrementing\IncrementingAndDecrementing\obj\Debug\IncrementingAndDecrementing.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\IncrementingAndDecrementing\IncrementingAndDecrementing\obj\Debug\IncrementingAndDecrementing.exe
+H:\VS 2017 Project\IncrementingAndDecrementing\IncrementingAndDecrementing\obj\Debug\IncrementingAndDecrementing.pdb

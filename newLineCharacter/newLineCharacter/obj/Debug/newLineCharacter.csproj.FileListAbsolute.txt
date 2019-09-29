@@ -1,0 +1,7 @@
+H:\VS 2017 Project\newLineCharacter\newLineCharacter\bin\Debug\newLineCharacter.exe.config
+H:\VS 2017 Project\newLineCharacter\newLineCharacter\bin\Debug\newLineCharacter.exe
+H:\VS 2017 Project\newLineCharacter\newLineCharacter\bin\Debug\newLineCharacter.pdb
+H:\VS 2017 Project\newLineCharacter\newLineCharacter\obj\Debug\newLineCharacter.csprojAssemblyReference.cache
+H:\VS 2017 Project\newLineCharacter\newLineCharacter\obj\Debug\newLineCharacter.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\newLineCharacter\newLineCharacter\obj\Debug\newLineCharacter.exe
+H:\VS 2017 Project\newLineCharacter\newLineCharacter\obj\Debug\newLineCharacter.pdb

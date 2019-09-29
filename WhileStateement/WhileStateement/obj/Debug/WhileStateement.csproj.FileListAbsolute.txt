@@ -1,0 +1,10 @@
+H:\VS 2017 Project\WhileStateement\WhileStateement\bin\Debug\WhileStateement.exe.config
+H:\VS 2017 Project\WhileStateement\WhileStateement\bin\Debug\WhileStateement.exe
+H:\VS 2017 Project\WhileStateement\WhileStateement\bin\Debug\WhileStateement.pdb
+H:\VS 2017 Project\WhileStateement\WhileStateement\obj\Debug\WhileStateement.csprojAssemblyReference.cache
+H:\VS 2017 Project\WhileStateement\WhileStateement\obj\Debug\WhileStateement.Form1.resources
+H:\VS 2017 Project\WhileStateement\WhileStateement\obj\Debug\WhileStateement.Properties.Resources.resources
+H:\VS 2017 Project\WhileStateement\WhileStateement\obj\Debug\WhileStateement.csproj.GenerateResource.cache
+H:\VS 2017 Project\WhileStateement\WhileStateement\obj\Debug\WhileStateement.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\WhileStateement\WhileStateement\obj\Debug\WhileStateement.exe
+H:\VS 2017 Project\WhileStateement\WhileStateement\obj\Debug\WhileStateement.pdb

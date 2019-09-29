@@ -1,0 +1,10 @@
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\bin\Debug\CSharpStrat.exe.config
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\bin\Debug\CSharpStrat.exe
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\bin\Debug\CSharpStrat.pdb
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\obj\Debug\CSharpStrat.csprojAssemblyReference.cache
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\obj\Debug\CSharpStrat.Properties.Resources.resources
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\obj\Debug\CSharpStrat.csproj.GenerateResource.cache
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\obj\Debug\CSharpStrat.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\obj\Debug\CSharpStrat.exe
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\obj\Debug\CSharpStrat.pdb
+H:\VS 2017 Project\CSharpStrat\CSharpStrat\obj\Debug\CSharpStrat.Form1.resources

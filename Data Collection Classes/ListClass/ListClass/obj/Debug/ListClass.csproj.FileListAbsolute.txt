@@ -1,0 +1,7 @@
+H:\VS 2017 Project\Data Collection Classes\ListClass\ListClass\bin\Debug\ListClass.exe.config
+H:\VS 2017 Project\Data Collection Classes\ListClass\ListClass\bin\Debug\ListClass.exe
+H:\VS 2017 Project\Data Collection Classes\ListClass\ListClass\bin\Debug\ListClass.pdb
+H:\VS 2017 Project\Data Collection Classes\ListClass\ListClass\obj\Debug\ListClass.csprojAssemblyReference.cache
+H:\VS 2017 Project\Data Collection Classes\ListClass\ListClass\obj\Debug\ListClass.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\Data Collection Classes\ListClass\ListClass\obj\Debug\ListClass.exe
+H:\VS 2017 Project\Data Collection Classes\ListClass\ListClass\obj\Debug\ListClass.pdb

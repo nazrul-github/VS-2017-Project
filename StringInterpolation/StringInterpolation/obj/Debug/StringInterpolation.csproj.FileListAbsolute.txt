@@ -1,0 +1,7 @@
+H:\VS 2017 Project\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+H:\VS 2017 Project\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
+H:\VS 2017 Project\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
+H:\VS 2017 Project\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csprojAssemblyReference.cache
+H:\VS 2017 Project\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
+H:\VS 2017 Project\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb

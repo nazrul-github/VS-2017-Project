@@ -1,0 +1,10 @@
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\bin\Debug\DeviceFromWhichCompany.exe.config
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\bin\Debug\DeviceFromWhichCompany.exe
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\bin\Debug\DeviceFromWhichCompany.pdb
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\obj\Debug\DeviceFromWhichCompany.csprojAssemblyReference.cache
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\obj\Debug\DeviceFromWhichCompany.Form1.resources
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\obj\Debug\DeviceFromWhichCompany.Properties.Resources.resources
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\obj\Debug\DeviceFromWhichCompany.csproj.GenerateResource.cache
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\obj\Debug\DeviceFromWhichCompany.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\obj\Debug\DeviceFromWhichCompany.exe
+H:\VS 2017 Project\DeviceFromWhichCompany\DeviceFromWhichCompany\obj\Debug\DeviceFromWhichCompany.pdb

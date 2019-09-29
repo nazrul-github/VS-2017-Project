@@ -1,0 +1,6 @@
+H:\VS 2017 Project\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+H:\VS 2017 Project\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+H:\VS 2017 Project\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+H:\VS 2017 Project\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+H:\VS 2017 Project\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

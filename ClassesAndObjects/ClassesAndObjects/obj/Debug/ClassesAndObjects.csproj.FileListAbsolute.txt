@@ -1,0 +1,7 @@
+H:\VS 2017 Project\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+H:\VS 2017 Project\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+H:\VS 2017 Project\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+H:\VS 2017 Project\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+H:\VS 2017 Project\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+H:\VS 2017 Project\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

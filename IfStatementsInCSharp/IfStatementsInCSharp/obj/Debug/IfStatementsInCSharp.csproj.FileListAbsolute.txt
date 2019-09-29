@@ -1,0 +1,10 @@
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.csprojAssemblyReference.cache
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.Form1.resources
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.Properties.Resources.resources
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.csproj.GenerateResource.cache
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\bin\Debug\IfStatementsInCSharp.exe.config
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\bin\Debug\IfStatementsInCSharp.exe
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\bin\Debug\IfStatementsInCSharp.pdb
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.exe
+H:\VS 2017 Project\IfStatementsInCSharp\IfStatementsInCSharp\obj\Debug\IfStatementsInCSharp.pdb

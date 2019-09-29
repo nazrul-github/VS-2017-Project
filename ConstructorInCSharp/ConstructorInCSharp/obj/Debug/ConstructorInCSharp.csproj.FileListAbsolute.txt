@@ -1,0 +1,10 @@
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\bin\Debug\ConstructorInCSharp.exe.config
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\bin\Debug\ConstructorInCSharp.exe
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\bin\Debug\ConstructorInCSharp.pdb
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.csprojAssemblyReference.cache
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.Form1.resources
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.Properties.Resources.resources
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.csproj.GenerateResource.cache
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.exe
+H:\VS 2017 Project\ConstructorInCSharp\ConstructorInCSharp\obj\Debug\ConstructorInCSharp.pdb

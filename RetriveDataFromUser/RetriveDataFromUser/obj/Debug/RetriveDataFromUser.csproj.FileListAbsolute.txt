@@ -1,0 +1,7 @@
+H:\VS 2017 Project\RetriveDataFromUser\RetriveDataFromUser\bin\Debug\RetriveDataFromUser.exe.config
+H:\VS 2017 Project\RetriveDataFromUser\RetriveDataFromUser\bin\Debug\RetriveDataFromUser.exe
+H:\VS 2017 Project\RetriveDataFromUser\RetriveDataFromUser\bin\Debug\RetriveDataFromUser.pdb
+H:\VS 2017 Project\RetriveDataFromUser\RetriveDataFromUser\obj\Debug\RetriveDataFromUser.csprojAssemblyReference.cache
+H:\VS 2017 Project\RetriveDataFromUser\RetriveDataFromUser\obj\Debug\RetriveDataFromUser.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\RetriveDataFromUser\RetriveDataFromUser\obj\Debug\RetriveDataFromUser.exe
+H:\VS 2017 Project\RetriveDataFromUser\RetriveDataFromUser\obj\Debug\RetriveDataFromUser.pdb

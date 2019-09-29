@@ -1,0 +1,10 @@
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\bin\Debug\WhileAndIfStatements.exe.config
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\bin\Debug\WhileAndIfStatements.exe
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\bin\Debug\WhileAndIfStatements.pdb
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\obj\Debug\WhileAndIfStatements.csprojAssemblyReference.cache
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\obj\Debug\WhileAndIfStatements.Form1.resources
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\obj\Debug\WhileAndIfStatements.Properties.Resources.resources
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\obj\Debug\WhileAndIfStatements.csproj.GenerateResource.cache
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\obj\Debug\WhileAndIfStatements.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\obj\Debug\WhileAndIfStatements.exe
+H:\VS 2017 Project\WhileAndIfStatements\WhileAndIfStatements\obj\Debug\WhileAndIfStatements.pdb

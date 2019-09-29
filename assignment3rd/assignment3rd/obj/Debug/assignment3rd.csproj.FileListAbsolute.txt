@@ -1,0 +1,7 @@
+H:\VS 2017 Project\assignment3rd\assignment3rd\bin\Debug\assignment3rd.exe.config
+H:\VS 2017 Project\assignment3rd\assignment3rd\bin\Debug\assignment3rd.exe
+H:\VS 2017 Project\assignment3rd\assignment3rd\bin\Debug\assignment3rd.pdb
+H:\VS 2017 Project\assignment3rd\assignment3rd\obj\Debug\assignment3rd.csprojAssemblyReference.cache
+H:\VS 2017 Project\assignment3rd\assignment3rd\obj\Debug\assignment3rd.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\assignment3rd\assignment3rd\obj\Debug\assignment3rd.exe
+H:\VS 2017 Project\assignment3rd\assignment3rd\obj\Debug\assignment3rd.pdb

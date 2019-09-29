@@ -1,0 +1,10 @@
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\bin\Debug\NameOfComputers.exe.config
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\bin\Debug\NameOfComputers.exe
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\bin\Debug\NameOfComputers.pdb
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\obj\Debug\NameOfComputers.csprojAssemblyReference.cache
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\obj\Debug\NameOfComputers.Form1.resources
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\obj\Debug\NameOfComputers.Properties.Resources.resources
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\obj\Debug\NameOfComputers.csproj.GenerateResource.cache
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\obj\Debug\NameOfComputers.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\obj\Debug\NameOfComputers.exe
+H:\VS 2017 Project\NameOfComputers\NameOfComputers\obj\Debug\NameOfComputers.pdb

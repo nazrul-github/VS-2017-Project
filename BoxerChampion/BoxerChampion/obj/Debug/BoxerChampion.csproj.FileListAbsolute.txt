@@ -1,0 +1,9 @@
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\bin\Debug\BoxerChampion.exe.config
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\bin\Debug\BoxerChampion.exe
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\bin\Debug\BoxerChampion.pdb
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.Form1.resources
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.Properties.Resources.resources
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.csproj.GenerateResource.cache
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.csproj.CoreCompileInputs.cache
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.exe
+H:\VS 2017 Project\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.pdb
