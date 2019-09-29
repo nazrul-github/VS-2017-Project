@@ -18,7 +18,9 @@ namespace Task3
 
             if(width>height){
                 Console.WriteLine("This image is a landscape");
-                }else{Console.WriteLine("This image is a potrait");}
+                }else{Console.WriteLine("This image is a potrait");
+
+                Console.WriteLine("Finished Comparing");
              
         }
     }
