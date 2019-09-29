@@ -14,14 +14,19 @@ namespace Task3
             Console.WriteLine("Please enter the width");
             int width = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter the height");
-            int height = Convert.ToInt32( Console.ReadLine());
+            int height = Convert.ToInt32(Console.ReadLine());
 
-            if(width>height){
+            if (width > height)
+            {
                 Console.WriteLine("This image is a landscape");
-                }else{Console.WriteLine("This image is a potrait");
+            }
+            else
+            {
+                Console.WriteLine("This image is a potrait");
 
                 Console.WriteLine("Finished Comparing");
-             
+
+            }
         }
     }
 }
