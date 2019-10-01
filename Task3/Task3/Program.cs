@@ -10,23 +10,23 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter width and height of your monitor to check for landscape or potrait");
-            Console.WriteLine("Please enter the width");
-            int width = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Please enter the height");
-            int height = Convert.ToInt32(Console.ReadLine());
-
-            if (width > height)
+            public void Exercise3()
             {
-                Console.WriteLine("This image is a landscape");
-            }
-            else
-            {
-                Console.WriteLine("This image is a potrait");
+                Console.Write("Image width: ");
+                var width = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Finished Comparing");
+                Console.Write("Image height: ");
+                var height = Convert.ToInt32(Console.ReadLine());
 
+                var orientation = width > height ? ImageOrientation.Landscape : ImageOrientation.Portrait;
+                Console.WriteLine("Image orientation is " + orientation);
             }
+
+        public enum ImageOrientation
+        {
+            Landscape,
+            Portrait
         }
+    }
     }
 }
