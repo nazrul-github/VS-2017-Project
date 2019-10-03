@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Task3",
-    "\\Task3\\Task3"
+    "\\Task3\\Task3",
+    "\\TouranamentManager",
+    "\\TouranamentManager\\TournamentManager",
+    "\\TouranamentManager\\TournamentManager\\createTeamForm",
+    "\\TouranamentManager\\TournamentManager\\CreateTounamentForm",
+    "\\TouranamentManager\\TournamentManager\\CreateTounamentForm\\Properties",
+    "\\TouranamentManager\\TournamentManager\\TrackerUI"
   ],
+  "SelectedNode": "\\TouranamentManager\\TournamentManager\\TrackerUI\\CreateTeamForm.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
