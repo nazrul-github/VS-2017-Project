@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1D03F07D-14AB-454D-BEB6-D67662F9D860}</ProjectGuid>
+    <ProjectGuid>{4B5BAE21-E1D7-43E2-A170-BC849499B491}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>UsingListView</RootNamespace>
-    <AssemblyName>UsingListView</AssemblyName>
+    <RootNamespace>UsingLoop2</RootNamespace>
+    <AssemblyName>UsingLoop2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,7 +52,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1D03F07D-14AB-454D-BEB6-D67662F9D860}</ProjectGuid>
+    <ProjectGuid>{6B34712F-42C5-4391-BF3B-9608CB832A81}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>UsingListView</RootNamespace>
-    <AssemblyName>UsingListView</AssemblyName>
+    <RootNamespace>StrudentRegistryFormWithListView</RootNamespace>
+    <AssemblyName>StrudentRegistryFormWithListView</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,7 +52,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
