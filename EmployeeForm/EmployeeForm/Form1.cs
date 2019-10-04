@@ -62,7 +62,7 @@ namespace EmployeeForm
         private void mainListView_SelectedIndexChanged(object sender, EventArgs e)
         {
             ListViewItem id = mainListView.SelectedItems[0];
-           // string idText = id.SubItems[0].Text;
+            string idText = id.SubItems[0].Text;
             string name = id.SubItems[1].Text;
             string dob = id.SubItems[2].Text;
             string salary = id.SubItems[3].Text;
