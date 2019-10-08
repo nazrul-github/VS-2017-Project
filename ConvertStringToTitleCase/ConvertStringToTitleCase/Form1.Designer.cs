@@ -120,6 +120,7 @@
             this.autoRadioButton.TabStop = true;
             this.autoRadioButton.Text = "Automatically";
             this.autoRadioButton.UseVisualStyleBackColor = true;
+            this.autoRadioButton.CheckedChanged += new System.EventHandler(this.autoRadioButton_CheckedChanged);
             // 
             // manualRadioButton
             // 

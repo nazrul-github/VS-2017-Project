@@ -86,6 +86,7 @@ namespace ConvertStringToTitleCase
             int number2 = r.Next(9999);
 
             return ((long)number2 * (long)1000000000) + (long)number;
+
         }
         public void GetSearchClear()
         {
@@ -139,21 +140,17 @@ namespace ConvertStringToTitleCase
                             $"Quote: {quoteItem}","Id And Quote",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-           long keyDic=Convert.ToInt64( searchTextBox.Text);
-            string valueDic = quotesDictionary[keyDic];
-            MessageBox.Show($"Key: {keyDic}" +
-                            $"Vaue: {valueDic}");
-        }
+       
 
 
 
           private void searchTextBox_KeyDown(object sender, KeyEventArgs e)
           {
-              if(e.KeyCode == Keys.Enter)
+                if(e.KeyCode == Keys.Enter)
               {
-                  long keyOFQuote = 0;
+                searchListView.Items.Clear();
+
+                long keyOFQuote = 0;
                   bool tryConvertKey = long.TryParse(searchTextBox.Text, out keyOFQuote);
                   if (tryConvertKey)
                   {
@@ -165,7 +162,6 @@ namespace ConvertStringToTitleCase
                               ListViewItem newItem = new ListViewItem(keny.Key.ToString());
                               newItem.SubItems.Add(newSubItem);
                               searchListView.Items.Add(newItem);
-                              break;
                           }
                       }
                   }
@@ -180,23 +176,30 @@ namespace ConvertStringToTitleCase
                             ListViewItem newItem = new ListViewItem(keny.Key.ToString());
                             newItem.SubItems.Add(newSubItem);
                             searchListView.Items.Add(newItem);
-                            break;
                         }
                     }
 
                 }
+               
                   else
                   {
                       MessageBox.Show("Please enter right key or quote to get the value");
                   }
-                searchTextBox.Text = " ";
+               // searchTextBox.Text = " ";
               }
           }
+        private void autoRadioButton_CheckedChanged(object sender, EventArgs e)
+        {
+            idInpuTextBox.Visible = false;
+
+        }
 
         private void clrSearchButton_Click(object sender, EventArgs e)
         {
             GetSearchClear();
             addQuoteTextBox.Focus();
         }
+
+        
     }
 }
