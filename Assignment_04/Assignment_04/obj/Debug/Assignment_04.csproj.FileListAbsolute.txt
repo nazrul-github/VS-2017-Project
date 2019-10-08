@@ -1,7 +1,0 @@
-H:\VS 2017 Project\Assignment_04\Assignment_04\bin\Debug\Assignment_04.exe.config
-H:\VS 2017 Project\Assignment_04\Assignment_04\bin\Debug\Assignment_04.exe
-H:\VS 2017 Project\Assignment_04\Assignment_04\bin\Debug\Assignment_04.pdb
-H:\VS 2017 Project\Assignment_04\Assignment_04\obj\Debug\Assignment_04.csprojAssemblyReference.cache
-H:\VS 2017 Project\Assignment_04\Assignment_04\obj\Debug\Assignment_04.csproj.CoreCompileInputs.cache
-H:\VS 2017 Project\Assignment_04\Assignment_04\obj\Debug\Assignment_04.exe
-H:\VS 2017 Project\Assignment_04\Assignment_04\obj\Debug\Assignment_04.pdb
