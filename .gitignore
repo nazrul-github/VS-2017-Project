@@ -259,3 +259,13 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+WebApplication1/WebApplication1.sln
+WebApplication1/WebApplication1/Properties/AssemblyInfo.cs
+WebApplication1/WebApplication1/packages.config
+WebApplication1/WebApplication1/Web.config
+WebApplication1/WebApplication1/Web.Debug.config
+WebApplication1/WebApplication1/Web.Release.config
+WebApplication1/WebApplication1/WebApplication1.csproj
+WebApplication1/WebApplication1/WebForm1.aspx
+WebApplication1/WebApplication1/WebForm1.aspx.cs
+WebApplication1/WebApplication1/WebForm1.aspx.designer.cs
