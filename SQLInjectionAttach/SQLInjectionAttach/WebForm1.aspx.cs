@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Configuration;
+using System.Data;
 using System.Data.SqlClient;
 
 namespace SQLInjectionAttach
@@ -31,9 +32,10 @@ namespace SQLInjectionAttach
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 SqlCommand cmd = new SqlCommand();
-                cmd.Parameters.AddWithValue("@Product", searchTextBox.Text + "%");
-                cmd.CommandText =
-                    "SELECT * FROM product_inventory WHERE ID LIKE @Product OR product_name LIKE @Product OR quantity_available LIKE @Product";
+
+                cmd.Parameters.AddWithValue("@Product", searchTextBox.Text+"%" );
+                cmd.CommandText = "spGetProductsName";
+                cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Connection = connection;
                 connection.Open();
                 GridView1.DataSource = cmd.ExecuteReader();
