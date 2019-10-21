@@ -17,6 +17,10 @@ namespace Constructors
 
             Order newOrder = new Order();
             customer.Orders.Add(newOrder);
+            Customer anotherCustomer = new Customer{name = "Saleh"};
+
+            Console.WriteLine(anotherCustomer.name);
+            Console.ReadKey();
 
 
         }
