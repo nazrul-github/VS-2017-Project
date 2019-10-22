@@ -1,0 +1,14 @@
+-----
+1. Need a class call stopwatch
+2. will simulate a stopwatch
+3. we need two methods
+4. start and stop
+5. Will call the start method first
+6. stop method will follow
+7. will ask the stopwatch for the duration of time (difference between start method and stop method)
+8. duration should be value of time span
+9. the stopwatch can get called different time; ---- and every time it get's it will show proper time
+10. the stopwatch should not be get called twice before stoping, if it gets called twice it will throw an invalid operation exception.
+
+Must To Do -- Use encapsulation and information hiding so the implementetion details of the class not get's revealed. From the outside
+one should not be able to missuse the class;
