@@ -13,8 +13,12 @@ namespace StopWatchProject
         static void Main(string[] args)
         {
            StopWatch timeStopWatch = new StopWatch();
+
             timeStopWatch.StartTime();
-            timeStopWatch.StopTime();
+
+            Console.WriteLine("Press any key to stop the timer");
+            Console.ReadKey();
+            timeStopWatch.StartTime();
         }
     }
 }

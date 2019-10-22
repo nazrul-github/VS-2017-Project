@@ -9,17 +9,23 @@ namespace StopWatchProject.Models
 {
     class StopWatch
     {
-        private DateTime _startTime = new DateTime(1990, 01, 01);
-        private DateTime _stopTime = new DateTime(1990, 01, 01);
+        private DateTime _startTime;
+        private DateTime _stopTime;
 
 
 
-        public DateTime StartTime()
+        public void StartTime()
         {
-
+            if (_startTime - _startTime == new TimeSpan())
+            {
+                Console.WriteLine("Please stop the timer first");
+            }
+            else
+            {
+                
             _startTime = DateTime.Now;
+            }
             ;
-            return _startTime;
 
 
         }
@@ -27,7 +33,7 @@ namespace StopWatchProject.Models
 
         public void StopTime()
         {
-            if (StartTime() == _startTime)
+            if (_stopTime != _startTime)
             {
                 _stopTime = DateTime.Now;
 
