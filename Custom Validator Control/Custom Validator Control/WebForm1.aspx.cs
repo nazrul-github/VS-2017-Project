@@ -38,8 +38,8 @@ namespace Custom_Validator_Control
             }
             else
             {
-                int number;
-                bool tryParse = int.TryParse(args.Value, out number);
+                long number;
+                bool tryParse = long.TryParse(args.Value, out number);
 
                 if (tryParse && number >= 0 && number % 2 == 0)
                 {
