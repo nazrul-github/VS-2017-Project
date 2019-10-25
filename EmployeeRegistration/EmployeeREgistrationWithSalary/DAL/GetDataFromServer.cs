@@ -18,8 +18,9 @@ namespace EmployeeREgistrationWithSalary.DAL
             {
                 SqlCommand cmd = new SqlCommand();
                 cmd.CommandText =
-                    "SELECT * FROM employee_data WHERE EmployeeId = @EmployeeID";
-                cmd.Parameters.AddWithValue("@EmployeeID", newEmployee.EmployeeRegistrationNumber);
+                    "SELECT * FROM employee_data WHERE RegistrationNumber = @EmployeeReg AND MobileNumber = @MobileNumber";
+                cmd.Parameters.AddWithValue("@EmployeeReg", newEmployee.EmployeeRegistrationNumber);
+                cmd.Parameters.AddWithValue("@MobileNumber", newEmployee.MobileNumber);
                 cmd.Connection = connection;
                 connection.Open();
                 SqlDataReader reader = cmd.ExecuteReader();
@@ -58,7 +59,7 @@ namespace EmployeeREgistrationWithSalary.DAL
                 int affected = cmd.ExecuteNonQuery();
                 if (affected > 0)
                 {
-                    string affectedData ="Employee added, Employee Id: @EmployeeId";
+                    string affectedData ="Employee added, Employee Id: "+ "@EmployeeId";
                     return affectedData;
                 }
                 else
