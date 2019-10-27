@@ -68,6 +68,10 @@
                 </td>
 
             </tr>
+            <tr>
+                <td class="text-right" style="font-size: medium; width: 341px"><strong>Department</strong></td>
+               <td><asp:DropDownList runat="server" ID="ddlDepartment" Height="81px" Width="189px"/></td> 
+            </tr>
             <tr >
                 <td class="text-center align-content-xl-around" colspan="3">
                     <asp:Button  ID="saveButton" runat="server" Text="Save" CssClass="btn  btn-default" OnClick="saveButton_Click" />

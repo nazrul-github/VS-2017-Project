@@ -9,7 +9,7 @@ using EmployeeREgistrationWithSalary.Models;
 
 namespace EmployeeREgistrationWithSalary.DAL
 {
-    public class GetDataFromServer
+    public class GetEmployeeData
     {
         public bool EmployeeExist(Employee newEmployee)
         {
@@ -18,7 +18,7 @@ namespace EmployeeREgistrationWithSalary.DAL
             {
                 SqlCommand cmd = new SqlCommand();
                 cmd.CommandText =
-                    "SELECT * FROM employee_data WHERE RegistrationNumber = @EmployeeReg AND MobileNumber = @MobileNumber";
+                    "SELECT * FROM tblEmploye WHERE RegistrationNumber = @EmployeeReg AND MobileNumber = @MobileNumber";
                 cmd.Parameters.AddWithValue("@EmployeeReg", newEmployee.EmployeeRegistrationNumber);
                 cmd.Parameters.AddWithValue("@MobileNumber", newEmployee.MobileNumber);
                 cmd.Connection = connection;

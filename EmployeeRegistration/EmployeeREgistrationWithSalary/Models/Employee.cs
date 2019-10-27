@@ -30,6 +30,7 @@ namespace EmployeeREgistrationWithSalary.Models
         public DateTime DateTime { get; set; }
         public int EmployeeRegistrationNumber { get; set; }
         public int ID { get; set; }
+        public int DepartmentID { get; set; }
 
     }
 }

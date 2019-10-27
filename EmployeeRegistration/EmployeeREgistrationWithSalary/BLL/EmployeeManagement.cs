@@ -10,7 +10,7 @@ namespace EmployeeREgistrationWithSalary.BLL
 {
     public class EmployeeManagement
     {
-        GetDataFromServer newRequest = new GetDataFromServer();
+        GetEmployeeData newRequest = new GetEmployeeData();
         public void MobileNumberLengthValidate(object source, ServerValidateEventArgs args)
         {
             long number = 0;
@@ -70,7 +70,7 @@ namespace EmployeeREgistrationWithSalary.BLL
 
         public List<Employee> GetDataForGridView()
         {
-            List<Employee> getEmployees = GetDataFromServer.GetGridViewData();
+            List<Employee> getEmployees = GetEmployeeData.GetGridViewData();
             return getEmployees;
         }
     }
