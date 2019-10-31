@@ -11,7 +11,7 @@ namespace CreatingALoginWebsite
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Response.Write("Form is successfully submitted");
         }
 
         protected void Button1_Click(object sender, EventArgs e)
