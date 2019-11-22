@@ -7,21 +7,20 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using System.ComponentModel.DataAnnotations;
-
-namespace MvcPractice_1.Models
+namespace UniversityManagement.Models
 {
     using System;
     using System.Collections.Generic;
-   
     
-    public partial class Employee
+    public partial class Student
     {
-        public int employeeId { get; set; }
-        public string name { get; set; }
-        public string Gender { get; set; }
-        public Nullable<int> SALARY { get; set; }
-        public Nullable<int> DepartmentId { get; set; }
+        public int Id { get; set; }
+        public string StudentName { get; set; }
+        public string Email { get; set; }
+        public string ContactNo { get; set; }
+        public System.DateTime Date { get; set; }
+        public string Address { get; set; }
+        public int DepartmentId { get; set; }
     
         public virtual Department Department { get; set; }
     }

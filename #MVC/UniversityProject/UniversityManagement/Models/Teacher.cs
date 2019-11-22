@@ -7,25 +7,31 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using System.ComponentModel.DataAnnotations;
-
-namespace MvcPractice_1.Models
+namespace UniversityManagement.Models
 {
     using System;
     using System.Collections.Generic;
     
-    public partial class Department
+    public partial class Teacher
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Department()
+        public Teacher()
         {
-            this.Employee = new HashSet<Employee>();
+            this.CourseAssigns = new HashSet<CourseAssign>();
         }
     
-        public int DepartmentId { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
+        public string Address { get; set; }
+        public string email { get; set; }
+        public int Credit { get; set; }
+        public int DesignationId { get; set; }
+        public int DepartmentId { get; set; }
+        public string ContactNo { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Employee> Employee { get; set; }
+        public virtual ICollection<CourseAssign> CourseAssigns { get; set; }
+        public virtual Department Department { get; set; }
+        public virtual Designation Designation { get; set; }
     }
 }

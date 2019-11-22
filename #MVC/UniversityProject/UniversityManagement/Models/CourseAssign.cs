@@ -7,22 +7,23 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using System.ComponentModel.DataAnnotations;
-
-namespace MvcPractice_1.Models
+namespace UniversityManagement.Models
 {
     using System;
     using System.Collections.Generic;
-   
     
-    public partial class Employee
+    public partial class CourseAssign
     {
-        public int employeeId { get; set; }
-        public string name { get; set; }
-        public string Gender { get; set; }
-        public Nullable<int> SALARY { get; set; }
-        public Nullable<int> DepartmentId { get; set; }
+        public int id { get; set; }
+        public int DepartmentId { get; set; }
+        public int TeacherId { get; set; }
+        public int CreditToBeTaken { get; set; }
+        public int RemainingCredit { get; set; }
+        public int CourseId { get; set; }
+        public string CourseName { get; set; }
     
+        public virtual Course Course { get; set; }
         public virtual Department Department { get; set; }
+        public virtual Teacher Teacher { get; set; }
     }
 }

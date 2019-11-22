@@ -1,0 +1,49 @@
+﻿@model IEnumerable<BusinessLayer.Employee>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table" style="border: 1px solid black; margin-top: 10px">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeGender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeCity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+       
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeGender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeCity)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfBirth)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.EmployeeId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.EmployeeId }) 
+                </td>
+            </tr>
+        
+    }
+
+</table>
